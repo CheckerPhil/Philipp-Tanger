@@ -41,7 +41,7 @@ Darüber hinaus bin ich Schiedsrichter.
   Good days give happiness. 
   Bad days give experience.
   The worst days give lessons
-  and the best days give memories,
+  and the best days give memories.
 ```
 
 
