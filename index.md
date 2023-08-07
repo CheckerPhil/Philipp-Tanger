@@ -10,6 +10,7 @@ Hallo ich bin **Philipp Tanger**. Ich bin zur Zeit 18 Jahre alt und lebe in Deut
 Ich bin interessiert an...
 - Büchern
 - Programmiern
+- Politik
 
 Darüber hinaus bin ich Schiedsrichter.
 
@@ -28,8 +29,8 @@ Darüber hinaus bin ich Schiedsrichter.
 - Shining (Stephen King)
 - Sie (Stephen King)
 ### Sachbücher
-- Think and Grow Rich (Napoleon Hill)
 - Die 1% Prozentmethode (James Clear)
+- Nachts im Kanzleramt (Marietta Slomka)
 ### Sonstige
 - Der Alchemist (Paulo Coelho)
 
